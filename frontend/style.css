@@ -1,0 +1,16 @@
+body {
+    font-family: system-ui, sans-serif;
+    max-width: 720px;
+    margin: 2rem auto;
+}
+pre {
+    background: #111;
+    color: #eee;
+    padding: 1rem;
+    border-radius: 8px;
+}
+button {
+    padding: 0.6rem 1rem;
+    border-radius: 8px;
+    border: 1px solid #444;
+}
